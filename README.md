@@ -1,1 +1,3 @@
-# git-brach-practice
+# taco
+
+# This repo is made for git branching practice.
