@@ -1,3 +1,3 @@
 # taco
 
-# This repo is made for git branching practice.
+## This repo is made for git branching practice.
