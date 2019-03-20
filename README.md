@@ -15,3 +15,6 @@
 - git push origin branch-name
 	origin is your remote (GitHub, heroku, etc.)
 	syntax can also be git push remote-name branch-name
+
+
+yay!
